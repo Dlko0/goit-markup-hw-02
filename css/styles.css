@@ -152,6 +152,7 @@ img {
 }
 
 .team-member-title {
+  color: #434455;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
@@ -175,6 +176,7 @@ img {
 }
 
 .portfolio-item-text {
+color: #434455;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
